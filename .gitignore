@@ -1,0 +1,36 @@
+# Ignore CMake build output
+/build/
+
+# CMake intermediate files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+cmake_install.cmake
+
+# Binaries and libraries
+bin/
+lib/
+*.exe
+*.dll
+*.so
+*.dylib
+*.lib
+*.a
+
+# Object files
+*.o
+*.obj
+
+# IDE/editor/project files
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln
+
+# Logs and temporary files
+*.log
+*.tmp
